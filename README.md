@@ -24,9 +24,9 @@ On the Checkout page, enter:
 - Card number: `4000 0000 0000 3220`
 - OTP: `123456`
 - Any future expiry date and any CVC
-[image](a6.png)
-[ds](a5.png)
-[ae](a4.png)
+![image](a6.png)
+![ds](a5.png)
+![ae](a4.png)
 
 Then click **Submit**. Complete the OTP challenge. After success, you will see:
 **Order placed successfully**
@@ -34,8 +34,9 @@ Then click **Submit**. Complete the OTP challenge. After success, you will see:
 ## Test UPI
 On Checkout, select **UPI** and click **Pay with UPI**.
 Stripe will redirect to the UPI flow. After payment succeeds, you’ll be returned to the app with **Order placed successfully**.
-[a](a2.png)
-[b](a1.png)
+![a](a1.png)
+![b](a3.png)
+![c](a2.png)
 
 ## Test COD
 On Checkout, select **Cash on Delivery** and click **Place order (COD)**.
